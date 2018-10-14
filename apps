@@ -1,0 +1,13 @@
+[app] (name=fbrun)
+  [Position]	(CENTER)	{0 0}
+  [Layer]	{2}
+[end]
+[app] (name=xfce4-terminal) (class=Xfce4-terminal) (role=xfce4-terminal-1539453954-1479088334)
+  [Dimensions]	{57% 64%}
+  [Maximized]	{yes}
+[end]
+[app] (name=xfce4-terminal) (class=Xfce4-terminal) (role=xfce4-terminal-1539453998--1008075814)
+  [Dimensions]	{57% 64%}
+  [Maximized]	{no}
+  [Close]	{yes}
+[end]

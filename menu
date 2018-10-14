@@ -1,0 +1,19 @@
+[begin] (Fluxbox)
+[exec] (Terminal) {xfce4-terminal}
+[exec] (Navegador) {palemoon}
+[exec] (Gerenciador de arquivos) {pcmanfm}
+[exec] (Telegram) {telegram-desktop}
+[separator]
+[submenu] (Fluxbox configuration)
+[config] (Configuration)
+[submenu] (Styles) {}
+[stylesdir] (/usr/share/fluxbox/styles)
+[stylesdir] (~/.fluxbox/styles)
+[end]
+[workspaces] (Workspaces)
+[end]
+[separator]
+[reconfig] (Reconfigure)
+[restart] (Restart)
+[exit] (Exit)
+[end]
